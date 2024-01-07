@@ -1,0 +1,17 @@
+#calendar {
+  display: flex;
+  flex-wrap: wrap;
+}
+#calendar .cardBody {
+  display: flex;
+  flex-wrap: wrap;
+  width: 22%;
+  margin: 10px;
+}
+#calendar .cardBody .dayCard {
+  background-color: #dedede;
+  width: 12%;
+  border: 1px solid red;
+}
+
+/*# sourceMappingURL=style.css.map */
